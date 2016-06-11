@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Abistreich 2016
-// @version     0.9
+// @version     0.9.5
 // @description Ersetzt die Slideshow der Website des Medienzentrums Kassel und damit der Startseite der Schul-Browser durch einem GIF mit dem Text "Abistreich 2016" und einem flackernden Hintergrund.
 // @include     *medienzentrum-kassel.de*
 // @author      Jonas Thelemann
