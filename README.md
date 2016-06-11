@@ -1,5 +1,7 @@
 # Abistreich 2016
-Ersetzt die Slideshow der Website des Medienzentrums Kassel und damit der Startseite der Schul-Browser durch einem GIF mit dem Text "Abistreich 2016" und einem flackernden Hintergrund.
+Ersetzt die Slideshow der Website des Medienzentrums Kassel und damit der Startseite der Schul-Browser durch einem GIF mit dem Text "Abistreich 2016" und einem bewegten Hintergrund.
+
+![Abistreich](http://jonas-thelemann.de/portfolio/webscripts/abistreich/abistreich.gif)
 
 ## Installation
 For use with [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (Chrome).
