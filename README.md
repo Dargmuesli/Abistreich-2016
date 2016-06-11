@@ -5,3 +5,6 @@ Ersetzt die Slideshow der Website des Medienzentrums Kassel und damit der Starts
 For use with [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (Chrome).
 
 Click this link: <https://github.com/Dargmuesli/Abistreich-2016/raw/master/abistreich-2016.user.js>
+
+## Greasy Fork
+Visit this script's home at: <https://greasyfork.org/de/scripts/20485-abistreich-2016>
