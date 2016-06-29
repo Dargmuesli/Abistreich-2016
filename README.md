@@ -1,7 +1,7 @@
 # Graduation Prank 2016
 Replaces the slideshow on Medienzentrums Kassel's website and therefore on the school-browsers' homepage with a GIF containing the text "Abistreich 2016" and a moving background.
 
-![Graduation Prank 2016](http://jonas-thelemann.de/portfolio/webscripts/abistreich/abistreich.gif)
+![Graduation Prank 2016](https://jonas-thelemann.de/portfolio/school/alevel/prank/layout/images/prank.gif)
 
 ## Installation
 For use with [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (Chrome).
